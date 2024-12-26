@@ -1,0 +1,26 @@
+\selectlanguage *[]{english}
+\selectlanguage *[]{english}
+\contentsline {chapter}{\numberline {1}บทนำ}{6}{}%
+\contentsline {section}{\numberline {1.1}ที่มาและความสำคัญ}{6}{}%
+\contentsline {section}{\numberline {1.2}วัตถุประสงค์}{6}{}%
+\contentsline {section}{\numberline {1.3}ประโยชน์ที่คาดว่าจะได้รับ}{6}{}%
+\contentsline {section}{\numberline {1.4}ขอบเขต}{7}{}%
+\contentsline {chapter}{\numberline {2}ความรู้ทั่วไป}{8}{}%
+\contentsline {section}{\numberline {2.1}ครัวซองค์}{8}{}%
+\contentsline {section}{\numberline {2.2}สูตรในการคำนวณกำไร}{11}{}%
+\contentsline {subsection}{\numberline {2.2.1}กำไรขั้นต้น (Gross Profit)}{11}{}%
+\contentsline {subsection}{\numberline {2.2.2}กำไรจากการดำเนินงาน (Operating Profit)}{11}{}%
+\contentsline {subsection}{\numberline {2.2.3}กำไรสุทธิ (Net Profit)}{11}{}%
+\contentsline {chapter}{\numberline {3}ผลลัพธ์}{12}{}%
+\contentsline {section}{\numberline {3.1}โจทย์}{12}{}%
+\contentsline {section}{\numberline {3.2}ปัญหา (Questions)}{12}{}%
+\contentsline {section}{\numberline {3.3}องค์ประกอบ (Factors)}{12}{}%
+\contentsline {section}{\numberline {3.4}แผนภาพแสดง Model อย่างง่าย}{13}{}%
+\contentsline {section}{\numberline {3.5}สมมติฐาน (Assumptions)}{13}{}%
+\contentsline {section}{\numberline {3.6}ปัญหาในรูปคณิตศาสตร์ (Mathematical Problem)}{13}{}%
+\contentsline {subsection}{\numberline {3.6.1}แบบจำลองทางคณิตศาสตร์การลงทุนธุรกิจร้านครัวซองค์}{15}{}%
+\contentsline {chapter}{\numberline {4}ผลลัพธ์เชิงตัวเลข}{16}{}%
+\contentsline {section}{\numberline {4.1}การหาระยะเวลาการขายกี่เดือนถึงจะได้กำไร}{16}{}%
+\contentsline {section}{\numberline {4.2}โปรแกรมที่ใช้คำนวณ}{17}{}%
+\contentsline {chapter}{\numberline {5}บทวิเคราะห์}{22}{}%
+\contentsline {chapter}{\numberline {6}ผลสรุป}{23}{}%
